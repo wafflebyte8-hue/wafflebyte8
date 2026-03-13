@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=1000&center=true&vCenter=true&width=700&lines=Hey+!+I'm+wafflebyte8-hue;Welcome+to+my+GitHub+profile+!;Python+developer+%7C+LLM+builder+%7C+Android+tinkerer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+15&size=40&pause=1000&center=true&vCenter=true&width=700&lines=Hey+!+I'm+Mik;Welcome+to+my+GitHub+profile+!;Python+developer+%7C+LLM+builder+%7C+Android+tinkerer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -43,7 +43,7 @@
 
 ## About Me
 
-I'm **wafflebyte8-hue**.  
+I'm **Mik**.  
 I build small tools, experiment with **Python**, and work on **LLM-related projects**.  
 I also like tweaking systems, exploring **Android**, and learning by building.
 
